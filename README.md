@@ -28,8 +28,8 @@ I'm interested in building **distributed systems** in Rust:
 - [Madsim]: A FoundationDB-style deterministic simulation framework in Rust. (2021-now)
 
 I’m currently working on building **database systems** in Rust:
-- [RisingLight]: An OLAP database system for educational purpose. (2021)
-- [RisingWave]: A next-generation streaming database in the cloud. (now)
+- [RisingLight]: An OLAP database system for educational purpose. (2021-now)
+- [RisingWave]: A next-generation streaming database in the cloud. (2022-now)
 
 [rCore]: https://github.com/rcore-os/rCore
 [zCore]: https://github.com/rcore-os/zCore
