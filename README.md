@@ -15,27 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a system developer and Rustacean.
+
 I built **operating systems** in Rust:
-- [rCore]: A Linux-compatible kernel for OS teaching. (2018-2019)
+- [rCore]: A Linux-compatible OS kernel for teaching. (2018-2019)
 - [zCore]: A reimplementation of [Zircon] microkernel in Rust. (2020)
 - [Occlum]: A multi-process library OS for Intel SGX. (2019)
 
 I also built **storage systems** in Rust:
-- MadFS: A benchmark-oriented burst buffer file system for [IO500]. (2020)
+- MadFS: A benchmark-oriented distributed file system once ranked #1 on the [IO500] list. (2020)
 - MadFSv2: A more "serious" distributed file system but rarely works. (2021-2022)
 
-I'm interested in building **distributed systems** in Rust:
-- [Madsim]: A FoundationDB-style deterministic simulation framework in Rust. (2021-now)
+I was interested in building robust **distributed systems** in Rust:
+- [Madsim]: A FoundationDB-style deterministic simulation framework in Rust. (2021-2022)
 
-I’m currently working on building **database systems** in Rust:
+I’m currently working on building **database systems** and **streaming systems** in Rust:
 - [RisingLight]: An OLAP database system for educational purpose. (2021-now)
-- [RisingWave]: A next-generation streaming database in the cloud. (2022-now)
+- [RisingWave]: A distributed SQL streaming database in the cloud. (2022-now)
 
 [rCore]: https://github.com/rcore-os/rCore
 [zCore]: https://github.com/rcore-os/zCore
 [Occlum]: https://github.com/occlum/occlum
 [Madsim]: https://github.com/madsim-rs/madsim
-[IO500]: https://io500.org
+[IO500]: https://io500.org/list/sc22/full
 [Zircon]: https://fuchsia.dev/fuchsia-src/get-started/sdk/learn/intro/zircon
 [RisingLight]: https://github.com/risinglightdb/risinglight
 [RisingWave]: https://github.com/risingwavelabs/risingwave
