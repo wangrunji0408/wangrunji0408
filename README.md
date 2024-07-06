@@ -17,21 +17,21 @@ Here are some ideas to get you started:
 
 I'm a system developer and Rustacean.
 
-I built **operating systems** in Rust:
+**Operating Systems**:
 - [rCore]: A Linux-compatible OS kernel for teaching. (2018-2019)
 - [zCore]: A reimplementation of [Zircon] microkernel in Rust. (2020)
 - [Occlum]: A multi-process library OS for Intel SGX. (2019)
 
-I also built **storage systems** in Rust:
+**Storage Systems**:
 - MadFS: A benchmark-oriented distributed file system once ranked #1 on the [IO500] list. (2020)
 - MadFSv2: A more "serious" distributed file system but rarely works. (2021-2022)
 
-I was interested in building robust **distributed systems** in Rust:
+**Distributed Systems**:
 - [Madsim]: A FoundationDB-style deterministic simulation framework in Rust. (2021-2022)
 
-I’m currently working on building **database systems** and **streaming systems** in Rust:
-- [RisingLight]: An OLAP database system for educational purpose. (2021-now)
-- [RisingWave]: A distributed SQL streaming database in the cloud. (2022-now)
+**Database and Streaming Systems**:
+- [RisingLight]: An educational OLAP database system. (2021-2023)
+- [RisingWave]: A distributed SQL streaming database in the cloud. (2022-2024)
 
 [rCore]: https://github.com/rcore-os/rCore
 [zCore]: https://github.com/rcore-os/zCore
